@@ -1,6 +1,7 @@
 # Technical Stack
 - Vite
 - React
+- TypeScript
 - Tailwind CSS
 - DaisyUI
 - Lucide (Icon Library)
